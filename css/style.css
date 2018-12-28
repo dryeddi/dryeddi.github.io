@@ -25,6 +25,11 @@ p {
   color: white;
 }
 
+#contact{
+  background-color: #26a69a;
+  color: white;  
+}
+
 #logo-container{
   font-size: 18px;
 }
